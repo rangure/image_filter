@@ -6,12 +6,6 @@ Documentation : [Link](html/index.html)
 LICENSE: [Link](LICENSE)
 
 
-Windows executable: [Link](main.exe)
-
-
-Mac executable: [Link](main)
-
-
 Tests: [Link](src/test.cpp)
 
 # File Introduction
